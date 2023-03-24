@@ -1,5 +1,5 @@
 ### 👋
-> i write instant legacy and abandoned code
+> i write instantly legacy and abandoned code
 
 [![𝓐𝓬𝓮𝓛𝓲𝓴𝓮𝓼𝓖𝓱𝓸𝓼𝓽𝓼'𝓼 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 ](https://github-readme-stats.vercel.app/api/top-langs/?username=AceLikesGhosts&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
